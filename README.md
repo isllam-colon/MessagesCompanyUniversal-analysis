@@ -45,9 +45,9 @@ A complete data analytics solution designed to process **large JSON files (4GB+)
 |:------------------:|:------------------:|
 | ![Dashboard](screenshots/dashboard.png) | ![Sentiment](screenshots/sentiment.png) |
 
-| Word Analysis | Customer Insights |
+| Word Analysis 
 |:-------------:|:-----------------:|
-| ![Words](screenshots/words.png) | ![Customers](screenshots/customers.png) |
+| ![Words](screenshots/words.png) 
 
 </div>
 
