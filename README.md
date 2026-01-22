@@ -53,4 +53,3 @@ A complete data analytics solution designed to process **large JSON files (4GB+)
 
 ---
 
-## 🏗️ Architecture
